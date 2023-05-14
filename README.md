@@ -1,5 +1,5 @@
 # Online-Fire-Reporting-System
-How to run the Theme Zoo Management System Project Using PHP and MySQL
+How to run the Theme Online Fire Reporting System Project Using PHP and MySQL
 
 1.Download the zip file
 
@@ -9,11 +9,11 @@ How to run the Theme Zoo Management System Project Using PHP and MySQL
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5.Create a database with name zmsdb
+5.Create a database with name ofrsdb
 
-6.Import zmsdb.sql file(given inside the zip package in SQL file folder)
+6.Import ofrsdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/zms
+7.Run the script http://localhost/ofrs
 
 Admin Credential
 Username: admin
